@@ -1,0 +1,20 @@
+{
+  "name": "similarweb-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Similarweb Scraper: Scrape Similarweb data for any domain: rank, monthly visits, traffic sources, countries, keywords, competitors and audience. No login needed. JSON, CSV, Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "similarweb"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

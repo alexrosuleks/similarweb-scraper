@@ -1,0 +1,13 @@
+{
+  "domains": [
+    "github.com",
+    "amazon.com",
+    "notion.so"
+  ],
+  "proxy": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
